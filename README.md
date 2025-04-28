@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 Hi 👋, I'm sarang, BCA Student with experience in freelance and personal projects, specializing in Spring Boot, Java, JavaScript, Node.js, SQL ,WEBSockets and Express.js.
 
 
